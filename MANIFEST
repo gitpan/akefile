@@ -11,6 +11,8 @@ inc/Module/Install/Share.pm
 inc/Module/Install/Win32.pm
 inc/Module/Install/WriteAll.pm
 inc/Module/Package.pm
+lib/ake.pm
+lib/ake.pod
 lib/akefile.pm
 lib/akefile.pod
 LICENSE
