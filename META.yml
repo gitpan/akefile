@@ -7,7 +7,7 @@ build_requires:
 configure_requires:
   ExtUtils::MakeMaker: 6.42
 distribution_type: module
-generated_by: 'Module::Install version 1.01'
+generated_by: 'Module::Install version 1.02'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -23,11 +23,14 @@ no_index:
 requires:
   File::Share: 0.01
   IO::All: 0.43
-  Mo: 0.22
+  Mo: 0.30
   Template::Toolkit::Simple: 0.13
   perl: 5.6.0
 resources:
-  homepage: http://github.com/ingydotnet/akefile-pm/tree
+  homepage: https://github.com/ingydotnet/akefile-pm/tree
   license: http://dev.perl.org/licenses/
-  repository: git://github.com/ingydotnet/akefile-pm.git
-version: 0.03
+  repository:
+    type: git
+    url: git://github.com/ingydotnet/akefile-pm.git
+    web: https://github.com/ingydotnet/akefile-pm/tree
+version: 0.04
