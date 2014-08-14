@@ -1,18 +1,16 @@
----
-version: 0.04
-date:    Sat Nov  5 01:04:36 PDT 2011
-changes:
-- Remove XXX dep
-- Use newer Mo.
----
-version: 0.03
-date:    Wed Sep 14 15:29:57 CEST 2011
-changes:
-- Added au++ great idea to support 'perl -make -test' and 'perl -make -install'
-- Released from Liz++ and Wendy++' attic
----
-version: 0.02
-date:    Wed Sep 14 14:37:34 CEST 2011
-changes:
-- First Release
-- Released from Liz++ and Wendy++' Library
+0.05 Wed Aug 13 23:03:42 PDT 2014
+ - Switch to Zilla::Dist
+
+0.04 Sat Nov  5 01:04:36 PDT 2011
+ - Remove XXX dep
+ - Use newer Mo.
+
+0.03 Wed Sep 14 15:29:57 CEST 2011
+ - Added au++ great idea to support 'perl -make -test' and 'perl -make
+   -install'
+ - Released from Liz++ and Wendy++' attic
+
+0.02 Wed Sep 14 14:37:34 CEST 2011
+ - First Release
+ - Released from Liz++ and Wendy++' Library
+
