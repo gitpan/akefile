@@ -13,7 +13,6 @@ lib/akefile.pm
 lib/akefile.pod
 share/MP
 share/PL
-t/000-compile-modules.t
 t/release-pod-syntax.t
 xt/module-install.t
 xt/module-install/README
