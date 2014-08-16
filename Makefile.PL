@@ -30,7 +30,7 @@ my %WriteMakefileArgs = (
     "Mo" => "0.30",
     "Template::Toolkit::Simple" => "0.13"
   },
-  "VERSION" => "0.05",
+  "VERSION" => "0.06",
   "test" => {
     "TESTS" => "t/*.t"
   }
